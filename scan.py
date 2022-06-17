@@ -1,7 +1,7 @@
 from PIL import Image
 import io
-import requests
 import pytesseract
+import requests
 
 #pytesseract.pytesseract.tesseract_cmd = r"P:\Programs\Tesseract\tesseract.exe"
 #pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
